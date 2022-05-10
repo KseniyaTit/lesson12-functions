@@ -8,3 +8,4 @@ function getName(name){
    
         alert('с уважением, '+ ask)}
 }
+/**/ */
